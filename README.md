@@ -45,7 +45,10 @@ Besides cloud, I enjoy writing clean code, developing backend systems with **Pyt
 | Project | Description | Tools |
 |--------|-------------|-------|
 | **Website Hosting on S3** | Hosted a static portfolio website on AWS S3 with custom domain and public access config | AWS S3, Route 53 |
-| *(More Coming Soon)* | Currently working on more hands-on AWS and software development projects | Python, AWS Lambda, DynamoDB |
+| **Netflix Data Insights Dashboard** | Developed an interactive analytics dashboard using Amazon QuickSight to visualize Netflix content trends | Amazon S3, QuickSight, AWS Management Console |
+| **Transforming a Static Café Website into a Scalable AWS Solution** | Migrated a café's static website to AWS EC2 for better performance and availability following AWS best practices | AWS EC2, Secrets Manager, AMI, IAM Policies |
+| *(More Coming Soon)* | Currently working on more hands-on AWS and software development projects | Python, JavaScript, AWS Services, Database |
+
 
 > 📌 View all my work here: [GitHub Profile](https://github.com/iamiancliff)
 
